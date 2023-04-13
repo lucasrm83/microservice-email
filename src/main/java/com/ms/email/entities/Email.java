@@ -3,7 +3,6 @@ package com.ms.email.entities;
 import com.ms.email.enums.StatusEmail;
 import jakarta.persistence.*;
 import lombok.Data;
-import org.springframework.data.annotation.Id;
 
 import java.io.Serializable;
 import java.time.LocalDateTime;
